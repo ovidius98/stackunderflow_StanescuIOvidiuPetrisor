@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Samples\StackUnderflow.Schema\bin\Debug\netstandard2.0\StackUnderflow.DatabaseModel.deps.json
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Samples\StackUnderflow.Schema\bin\Debug\netstandard2.0\StackUnderflow.DatabaseModel.dll
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Samples\StackUnderflow.Schema\bin\Debug\netstandard2.0\StackUnderflow.DatabaseModel.pdb
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Samples\StackUnderflow.Schema\bin\Debug\netstandard2.0\Access.Primitives.Extensions.dll
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Samples\StackUnderflow.Schema\bin\Debug\netstandard2.0\Access.Primitives.IO.dll
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Samples\StackUnderflow.Schema\bin\Debug\netstandard2.0\Access.Primitives.Extensions.pdb
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Samples\StackUnderflow.Schema\bin\Debug\netstandard2.0\Access.Primitives.IO.pdb
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Samples\StackUnderflow.Schema\obj\Debug\netstandard2.0\StackUnderflow.DatabaseModel.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Samples\StackUnderflow.Schema\obj\Debug\netstandard2.0\StackUnderflow.DatabaseModel.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Samples\StackUnderflow.Schema\obj\Debug\netstandard2.0\StackUnderflow.DatabaseModel.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Samples\StackUnderflow.Schema\obj\Debug\netstandard2.0\StackUnderflow.DatabaseModel.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Samples\StackUnderflow.Schema\obj\Debug\netstandard2.0\StackUnderflow.DatabaseModel.csproj.CopyComplete
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Samples\StackUnderflow.Schema\obj\Debug\netstandard2.0\StackUnderflow.DatabaseModel.dll
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Samples\StackUnderflow.Schema\obj\Debug\netstandard2.0\StackUnderflow.DatabaseModel.pdb

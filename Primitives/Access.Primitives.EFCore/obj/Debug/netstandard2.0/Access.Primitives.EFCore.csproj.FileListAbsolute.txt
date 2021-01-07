@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Primitives\Access.Primitives.EFCore\bin\Debug\netstandard2.0\Access.Primitives.EFCore.deps.json
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Primitives\Access.Primitives.EFCore\bin\Debug\netstandard2.0\Access.Primitives.EFCore.dll
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Primitives\Access.Primitives.EFCore\bin\Debug\netstandard2.0\Access.Primitives.EFCore.pdb
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Primitives\Access.Primitives.EFCore\bin\Debug\netstandard2.0\Access.Primitives.Extensions.dll
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Primitives\Access.Primitives.EFCore\bin\Debug\netstandard2.0\Access.Primitives.IO.dll
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Primitives\Access.Primitives.EFCore\bin\Debug\netstandard2.0\Access.Primitives.Extensions.pdb
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Primitives\Access.Primitives.EFCore\bin\Debug\netstandard2.0\Access.Primitives.IO.pdb
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Primitives\Access.Primitives.EFCore\obj\Debug\netstandard2.0\Access.Primitives.EFCore.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Primitives\Access.Primitives.EFCore\obj\Debug\netstandard2.0\Access.Primitives.EFCore.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Primitives\Access.Primitives.EFCore\obj\Debug\netstandard2.0\Access.Primitives.EFCore.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Primitives\Access.Primitives.EFCore\obj\Debug\netstandard2.0\Access.Primitives.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Primitives\Access.Primitives.EFCore\obj\Debug\netstandard2.0\Access.Primitives.EFCore.csproj.CopyComplete
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Primitives\Access.Primitives.EFCore\obj\Debug\netstandard2.0\Access.Primitives.EFCore.dll
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Primitives\Access.Primitives.EFCore\obj\Debug\netstandard2.0\Access.Primitives.EFCore.pdb

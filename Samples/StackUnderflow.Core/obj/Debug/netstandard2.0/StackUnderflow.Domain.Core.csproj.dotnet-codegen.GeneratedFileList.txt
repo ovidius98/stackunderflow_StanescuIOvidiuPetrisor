@@ -1,0 +1,17 @@
+obj\Debug\netstandard2.0\BackofficeDependencies.9FqLtcOB.generated.cs
+obj\Debug\netstandard2.0\BackofficeDomain.DGujxnwd.generated.cs
+obj\Debug\netstandard2.0\BackofficeReadContext.+BsPMb66.generated.cs
+obj\Debug\netstandard2.0\BackofficeWriteContext.6fZF9kW3.generated.cs
+obj\Debug\netstandard2.0\CreateTenantAdapter.Zjnfdvb5.generated.cs
+obj\Debug\netstandard2.0\CreateTenantCmd.Ng19EwZT.generated.cs
+obj\Debug\netstandard2.0\CreateTenantResult.gTFmcw+m.generated.cs
+obj\Debug\netstandard2.0\InvitationAcknowledgement.iciqREN8.generated.cs
+obj\Debug\netstandard2.0\InvitationLetter.hRPf8Qnr.generated.cs
+obj\Debug\netstandard2.0\InviteTenantAdminAdapter.C5K7wF2X.generated.cs
+obj\Debug\netstandard2.0\InviteTenantAdminCmd.Un6dNc-k.generated.cs
+obj\Debug\netstandard2.0\InviteTenantAdminResult.ORJ2zzO3.generated.cs
+obj\Debug\netstandard2.0\CreateReplyAdapter.yKkGPW5k.generated.cs
+obj\Debug\netstandard2.0\CreateReplyCmd.+HIvZB0m.generated.cs
+obj\Debug\netstandard2.0\CreateReplyResult.X5CptsRs.generated.cs
+obj\Debug\netstandard2.0\QuestionDomain.QpwDVWIW.generated.cs
+obj\Debug\netstandard2.0\QuestionWriteContext.zf+rJa+m.generated.cs

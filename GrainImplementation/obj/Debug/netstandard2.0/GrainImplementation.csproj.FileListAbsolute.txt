@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\GrainImplementation\bin\Debug\netstandard2.0\GrainImplementation.deps.json
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\GrainImplementation\bin\Debug\netstandard2.0\GrainImplementation.dll
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\GrainImplementation\bin\Debug\netstandard2.0\GrainImplementation.pdb
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\GrainImplementation\bin\Debug\netstandard2.0\GrainInterfaces.dll
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\GrainImplementation\bin\Debug\netstandard2.0\GrainInterfaces.pdb
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\GrainImplementation\obj\Debug\netstandard2.0\GrainImplementation.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\GrainImplementation\obj\Debug\netstandard2.0\GrainImplementation.orleans.g.args.txt
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\GrainImplementation\obj\Debug\netstandard2.0\GrainImplementation.orleans.g.cs
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\GrainImplementation\obj\Debug\netstandard2.0\GrainImplementation.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\GrainImplementation\obj\Debug\netstandard2.0\GrainImplementation.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\GrainImplementation\obj\Debug\netstandard2.0\GrainImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\GrainImplementation\obj\Debug\netstandard2.0\GrainImplementation.csproj.CopyComplete
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\GrainImplementation\obj\Debug\netstandard2.0\GrainImplementation.dll
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\GrainImplementation\obj\Debug\netstandard2.0\GrainImplementation.pdb

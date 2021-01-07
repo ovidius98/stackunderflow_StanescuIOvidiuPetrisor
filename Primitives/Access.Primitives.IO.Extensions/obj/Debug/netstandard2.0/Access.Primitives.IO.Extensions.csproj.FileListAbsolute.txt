@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Primitives\Access.Primitives.IO.Extensions\bin\Debug\netstandard2.0\Access.Primitives.IO.Extensions.deps.json
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Primitives\Access.Primitives.IO.Extensions\bin\Debug\netstandard2.0\Access.Primitives.IO.Extensions.dll
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Primitives\Access.Primitives.IO.Extensions\bin\Debug\netstandard2.0\Access.Primitives.IO.Extensions.pdb
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Primitives\Access.Primitives.IO.Extensions\bin\Debug\netstandard2.0\Access.Primitives.IO.dll
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Primitives\Access.Primitives.IO.Extensions\bin\Debug\netstandard2.0\Access.Primitives.IO.pdb
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Primitives\Access.Primitives.IO.Extensions\obj\Debug\netstandard2.0\Access.Primitives.IO.Extensions.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Primitives\Access.Primitives.IO.Extensions\obj\Debug\netstandard2.0\Access.Primitives.IO.Extensions.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Primitives\Access.Primitives.IO.Extensions\obj\Debug\netstandard2.0\Access.Primitives.IO.Extensions.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Primitives\Access.Primitives.IO.Extensions\obj\Debug\netstandard2.0\Access.Primitives.IO.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Primitives\Access.Primitives.IO.Extensions\obj\Debug\netstandard2.0\Access.Primitives.IO.Extensions.csproj.CopyComplete
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Primitives\Access.Primitives.IO.Extensions\obj\Debug\netstandard2.0\Access.Primitives.IO.Extensions.dll
+C:\Users\Administrator\Desktop\stackunderflow-dani.iercan-start-project\Primitives\Access.Primitives.IO.Extensions\obj\Debug\netstandard2.0\Access.Primitives.IO.Extensions.pdb
