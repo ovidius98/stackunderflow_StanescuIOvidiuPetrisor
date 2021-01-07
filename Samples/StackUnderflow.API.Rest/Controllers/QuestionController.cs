@@ -25,7 +25,7 @@ namespace StackUnderflow.API.AspNetCore.Controllers
             [HttpPost("create")]
             public async Task<AcceptedResult> CreateQuestion()
         {
-            return Ok();
+            return Ok();-
         }
             
         [HttpPost("questionId/reply")]
